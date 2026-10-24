@@ -1,0 +1,100 @@
+[
+  {
+    "userEmail": "alex.chen@campus.edu",
+    "resourceCode": "RES-TURING-LAB",
+    "daysFromNow": 1,
+    "startHour": 10,
+    "startMinute": 0,
+    "durationMinutes": 120,
+    "purpose": "Deep Learning Transformer Model Fine-Tuning for Capstone Thesis",
+    "attendeeCount": 4,
+    "notes": "Will be utilizing Workstations 01 through 04 with GPU cluster acceleration.",
+    "status": "pending"
+  },
+  {
+    "userEmail": "priya.sharma@campus.edu",
+    "resourceCode": "RES-RAMANUJAN-AUD",
+    "daysFromNow": 3,
+    "startHour": 14,
+    "startMinute": 0,
+    "durationMinutes": 180,
+    "purpose": "Annual University AI Symposium & Industry Keynote Session",
+    "attendeeCount": 180,
+    "notes": "Need audio engineer support and stage lapel microphones tested before session.",
+    "status": "confirmed"
+  },
+  {
+    "userEmail": "marcus.j@campus.edu",
+    "resourceCode": "RES-CURIE-STUDY",
+    "daysFromNow": 1,
+    "startHour": 15,
+    "startMinute": 0,
+    "durationMinutes": 90,
+    "purpose": "Mechatronics Design Review & Collaborative CAD Session",
+    "attendeeCount": 6,
+    "notes": "Bringing external laptops, need display screen sharing HDMI/AirPlay.",
+    "status": "confirmed"
+  },
+  {
+    "userEmail": "elena.r@campus.edu",
+    "resourceCode": "RES-SPORTS-BADMINTON",
+    "daysFromNow": 2,
+    "startHour": 17,
+    "startMinute": 0,
+    "durationMinutes": 60,
+    "purpose": "Inter-Department Badminton Doubles Practice Match",
+    "attendeeCount": 4,
+    "notes": "Bringing personal tournament racquets and shuttlecocks.",
+    "status": "confirmed"
+  },
+  {
+    "userEmail": "alex.chen@campus.edu",
+    "resourceCode": "RES-INNO-MEET",
+    "daysFromNow": 4,
+    "startHour": 11,
+    "startMinute": 0,
+    "durationMinutes": 60,
+    "purpose": "ACM Student Chapter Executive Planning Meeting",
+    "attendeeCount": 12,
+    "notes": "Will require video conferencing unit for remote faculty advisor.",
+    "status": "pending"
+  },
+  {
+    "userEmail": "priya.sharma@campus.edu",
+    "resourceCode": "RES-LECTURE-101",
+    "daysFromNow": -2,
+    "startHour": 14,
+    "startMinute": 0,
+    "durationMinutes": 90,
+    "purpose": "Student Peer Tutoring Session: Operating Systems Concepts",
+    "attendeeCount": 45,
+    "notes": "Delivered interactive review of synchronization and concurrency.",
+    "status": "completed"
+  },
+  {
+    "userEmail": "marcus.j@campus.edu",
+    "resourceCode": "RES-MAKER-FAB",
+    "daysFromNow": 5,
+    "startHour": 13,
+    "startMinute": 0,
+    "durationMinutes": 120,
+    "purpose": "Formula Student Chassis Bracket 3D SLA Printing",
+    "attendeeCount": 3,
+    "notes": "Material resin provided by Engineering Department garage.",
+    "status": "rejected",
+    "rejectionReason": "Scheduled maintenance and optical laser alignment during requested maintenance window."
+  },
+  {
+    "userEmail": "elena.r@campus.edu",
+    "resourceCode": "RES-MEDIA-RIG",
+    "daysFromNow": 2,
+    "startHour": 9,
+    "startMinute": 0,
+    "durationMinutes": 180,
+    "purpose": "Campus Documentary Filming - Architecture Archive Project",
+    "attendeeCount": 2,
+    "notes": "Requested cancellation due to unexpected outdoor rain schedule shift.",
+    "status": "cancelled",
+    "cancellationReason": "Rescheduling due to outdoor weather conditions."
+  }
+]

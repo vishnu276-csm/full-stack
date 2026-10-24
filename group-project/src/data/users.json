@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Dr. Sarah Mitchell",
+    "email": "admin@campus.edu",
+    "role": "admin",
+    "department": "Campus Operations & Academic Services",
+    "academicYear": null,
+    "accountStatus": "active"
+  },
+  {
+    "name": "Alex Chen",
+    "email": "alex.chen@campus.edu",
+    "role": "student",
+    "department": "Computer Science & Engineering",
+    "academicYear": "Junior (Year 3)",
+    "accountStatus": "active"
+  },
+  {
+    "name": "Priya Sharma",
+    "email": "priya.sharma@campus.edu",
+    "role": "student",
+    "department": "Artificial Intelligence & Data Science",
+    "academicYear": "Senior (Year 4)",
+    "accountStatus": "active"
+  },
+  {
+    "name": "Marcus Johnson",
+    "email": "marcus.j@campus.edu",
+    "role": "student",
+    "department": "Mechanical & Aerospace Engineering",
+    "academicYear": "Sophomore (Year 2)",
+    "accountStatus": "active"
+  },
+  {
+    "name": "Elena Rodriguez",
+    "email": "elena.r@campus.edu",
+    "role": "student",
+    "department": "School of Design & Media Arts",
+    "academicYear": "Graduate (Masters)",
+    "accountStatus": "active"
+  }
+]
